@@ -1,0 +1,28 @@
+Resultado - Samuel Farrús
+
+As 10 palavras com maior contagem de aparição, desconsiderando o resultado vazio ('') e as vogais soltas 'I' e 'a', são:
+
+- THE = 4066 vezes
+- AND = 2969 vezes
+- OF = 2746 vezes
+- TO = 2144 vezes
+- MY = 1631 vezes
+- IN = 1129 vezes
+- WAS = 994 vezes
+- THAT = 986 vezes
+- WITH = 700 vezes
+- HAD = 679 vezes
+
+('the', 4066)
+('and', 2969)
+('of', 2746)
+('I', 2719) *desconsiderado
+('to', 2144)
+('my', 1631)
+('a', 1394) *desconsiderado
+('', 1186) *desconsiderado
+('in', 1129)
+('was', 994)
+('that', 986)
+('with', 700)
+('had', 679)
